@@ -10,6 +10,9 @@ public class GitFullClass {
 	private void tc3() {
 		System.out.println("Siva");
 	}
+	private void tc7() {
+		System.out.println("God");	
+	}
 	private void tc4() {
 		System.out.println("Murali");
 	}
