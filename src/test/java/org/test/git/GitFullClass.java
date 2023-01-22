@@ -13,4 +13,11 @@ public class GitFullClass {
 	private void tc4() {
 		System.out.println("Murali");
 	}
+	private void tc5() {
+		System.out.println("Subesh");
+	}
+	private void tc6() {
+		System.out.println("Sudhakar");
+	}
+	
 }
