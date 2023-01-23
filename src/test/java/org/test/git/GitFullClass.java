@@ -16,10 +16,10 @@ public class GitFullClass {
 	private void tc8() {
 		System.out.println("Murali");
 	}
-	private void tc9() {
+	private void tc4() {
 		System.out.println("Subesh");
 	}
-	private void tc10() {
+	private void tc5() {
 		System.out.println("Sudhakar");
 	}
 	
