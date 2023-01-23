@@ -13,13 +13,13 @@ public class GitFullClass {
 	private void tc7() {
 		System.out.println("God");	
 	}
-	private void tc4() {
+	private void tc8() {
 		System.out.println("Murali");
 	}
-	private void tc5() {
+	private void tc9() {
 		System.out.println("Subesh");
 	}
-	private void tc6() {
+	private void tc10() {
 		System.out.println("Sudhakar");
 	}
 	
